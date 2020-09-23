@@ -19,6 +19,7 @@ OM OSS: ABDUL
 
 Färger: blå, vit och grönt som ger en bild av trygghet, renlighet och pålitlighet.
 #74f6a7, #489cc1, #ffffff
+#0d8abc
 
 Fonter: 
 
