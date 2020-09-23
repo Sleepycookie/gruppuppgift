@@ -1,5 +1,5 @@
 # gruppuppgift
-Hemsida som gjordes av Dastan, Mudassar, Abdul
+Hemsida som skapas av Dastan, Mudassar, Abdul
 
 #verksamhet
 
